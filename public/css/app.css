@@ -1,0 +1,40 @@
+.main-cont {
+  padding-top: 15px;
+}
+
+.card {
+  height: 100%;
+}
+
+.wrapper-single {
+  height: 100vh;
+}
+
+.remove-icon {
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.remove-icon:hover {
+  color: red;
+}
+
+.edit-icon {
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.edit-icon:hover {
+  color: green;
+}
+
+.hide {
+  display: none;
+}
+
+.article {
+  width: 100%;
+}
+
